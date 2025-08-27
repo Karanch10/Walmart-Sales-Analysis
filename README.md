@@ -1,6 +1,6 @@
 # 📊 Walmart Sales Dashboard  
 
-![Dashboard Preview]("C:\Users\Karan\Pictures\Screenshots\Screenshot 2025-08-27 180602.png")  
+![Dashboard Preview](Screenshot 2025-08-27 180602.png)  
 
 [![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)  
 [![Data](https://img.shields.io/badge/Data-Walmart-blue)]()  
